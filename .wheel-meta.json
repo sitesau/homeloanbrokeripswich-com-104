@@ -1,0 +1,22 @@
+{
+  "wheel_id": 638,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-com-104",
+  "project": "mortgage-brokers-ipswich-checklist-5eb48b8c933853c3bc5c4d175c82",
+  "parent_t1_ref": "homeloanbrokeripswich-com-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage brokers ipswich checklist",
+  "intended_url": "https://sites-e470-2.web.app/mortgage-brokers-ipswich-checklist-5eb48b8c933853c3bc5c4d175c82/",
+  "tier": "T2",
+  "writeback_nonce": "80e6c1fa4507339b",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokeripswich-com-151/",
+      "anchor": "Mortgage Brokers Ipswich Suburb Guide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
